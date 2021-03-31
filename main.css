@@ -1,0 +1,21 @@
+body {
+    background-color:rgba(0, 87, 250, 0.555);
+}
+
+#botinfos {
+    color:rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px #1900ff;
+    font-family: 'Brush Script MT', cursive;
+    position: fixed;
+    padding-left: 30px;
+    padding-bottom: 100px;
+}
+
+#membercountdiv {
+    color:rgb(0, 0, 0);
+    text-shadow: 2px 2px 4px #00ff2a;
+    font-family: 'Brush Script MT', cursive;
+    position: fixed;
+    padding-left: 30px;
+    padding-top: 50px;
+}
