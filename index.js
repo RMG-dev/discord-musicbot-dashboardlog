@@ -24,8 +24,8 @@ server.listen(8080, () => console.log('Le bot a bien été lancé !'));
 const Discord = require("discord.js"),
 client = new Discord.Client(),
 settings = {
-    prefix: "_",
-    token: "ODEyMzcxMjExNDg4MTk4NjY2.YC_xpQ.cWdYufkBUiEpOIjgUJGONREBLXk"
+    prefix: "Prefix",
+    token: "Token"
 };
 
 const { Player } = require("discord-player");
